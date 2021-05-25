@@ -8,7 +8,7 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
+    "repository": "https://github.com/mirrorbottg/SearchX.git",
     "website": "https://t.me/linux_repo",
     "success_url": "https://t.me/linux_repo",
     "stack": "container",
@@ -20,12 +20,12 @@
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
         "value": "",
-        "required": true
+        "required": false
       },
       "OWNER_ID": {
         "description": "This is the folder ID of the Google Drive Folder to which you want to upload all the mirrors.",
         "value": "",
-        "required": true
+        "required": false
       },
       "TELEGRAPH_TOKEN": {
         "description": "The path to the local folder where the downloads should be downloaded to.",
